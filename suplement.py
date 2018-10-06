@@ -9,7 +9,6 @@ from termcolor import colored
 
 '''The File has additional settings regarding frames and timeout'''
 
-
 class GetchUnix:
     '''docstring for Enemy'''
     '''The function allows us to generate an output as soon as it has an input rather than waiting for an enter'''
