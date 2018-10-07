@@ -37,7 +37,6 @@ class AlarmException(Exception):
 def alarmHandler(signum, frame):
     raise AlarmException
 
-
 def input_to(timeout=1):
     '''The function creates a timeout of 1 unit '''
     signal.signal(signal.SIGALRM, alarmHandler)
