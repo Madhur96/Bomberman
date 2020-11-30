@@ -138,4 +138,5 @@ The character with 'X' symbols is the walls and will be in white (cannot be dest
 ## Authors
 
 * **Anurag Mehta** - **20161016**
+* **Madhur Garg** - **20161228**
 
